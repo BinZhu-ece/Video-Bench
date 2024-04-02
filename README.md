@@ -45,7 +45,9 @@
 
 
 ## 📰 News
-**[2023.12.31]** We have updated the performance of the **Sphinx-V2** model on the [Video Bench LeaderBoard](https://huggingface.co/spaces/LanguageBind/Video-Bench), significantly surpassing other VLLMs! 
+**[2023.12.31]** We have updated the performance of the **Gemini** model on the [Video Bench LeaderBoard](https://huggingface.co/spaces/LanguageBind/Video-Bench), significantly surpassing other open-source VLLMs! 
+
+**[2023.12.31]** We have updated the performance of the **Sphinx-V2** model on the [Video Bench LeaderBoard](https://huggingface.co/spaces/LanguageBind/Video-Bench)! 
 
 **[2023.11.27]** Video-Bench is released! Data and evaluation code is available now.
 
